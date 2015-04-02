@@ -1,0 +1,28 @@
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+c:\users\patrick\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\VB scheduleScrape\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
